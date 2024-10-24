@@ -1,0 +1,27 @@
+.menu
+{
+    display: flex;
+    justify-content: space-between;
+}
+.m2
+{
+    display: block;
+    border: solid 3px black;
+    border-radius: 3px;
+    height: 357px;
+    width: 361px;
+    margin: 20px;
+    text-align: center;
+    background-color: #00ABE4;
+}
+.m1
+{
+    display: block;
+    border: solid 3px black;
+    border-radius: 3px;
+    height: 357px;
+    width: 361px;
+    margin: 20px;
+    text-align: center;
+    background-color: #00ABE4;
+}
